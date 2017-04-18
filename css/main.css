@@ -1,0 +1,38 @@
+#wrapper{
+  background-color: #b3e0ff;
+  margin: 5% 25%;
+  padding: 10px;
+}
+
+#logout #loggedout{
+    text-decoration: none;
+}
+
+#welcome{
+  float: left;
+  margin-left: 10px
+}
+#logout{
+  float: right;
+  margin-right: 10px
+}
+#chatArea{
+  background-color: #ffffff;
+  height: 400px;
+  overflow: auto;
+}
+#chatTextField{
+  margin-top: 20px;
+}
+
+#loginform{
+  background-color: #b3e0ff;
+  margin: 15% 40%;
+  width: 300px;
+  padding: 10px 0px 20px 30px;
+  border-radius: 10px;
+}
+
+.error{
+  color: red;
+}
